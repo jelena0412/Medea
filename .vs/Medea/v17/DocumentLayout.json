@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|c:\\users\\jelena\\desktop\\unityprojekti\\medea\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|c:\\users\\jelena\\desktop\\unityprojekti\\medea\\assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|c:\\users\\jelena\\desktop\\unityprojekti\\medea\\assets\\scripts\\riddlelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\riddlelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\assets\\scripts\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\assets\\scripts\\bosslevellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosslevellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\assets\\scripts\\medeabehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86F4A3F-D1A9-BD0A-2CD9-D45ED89682CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medeabehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:10:03.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorScript.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorScript.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:56:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RiddleLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\RiddleLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RiddleLogic.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\RiddleLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RiddleLogic.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:40:50.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RangedEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\RangedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RangedEnemy.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\RangedEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RangedEnemy.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowH4AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:36:25.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossLevelLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\BossLevelLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossLevelLogic.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\BossLevelLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossLevelLogic.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:19:09.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedeaBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\MedeaBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MedeaBehaviour.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\UnityProjekti\\Medea\\Assets\\Scripts\\MedeaBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MedeaBehaviour.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:20:24.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
